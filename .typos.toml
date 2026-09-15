@@ -1,0 +1,6 @@
+[default.extend-words]
+# Ignore false-positives
+waring = "waring"
+fo = "fo"
+pn = "pn"
+valu = "valu"
